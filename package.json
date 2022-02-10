@@ -9,7 +9,7 @@
     "bootstrap": "^4.4.1",
     "mathjs": "^5.7.0",
     "mysql": "^2.18.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "plotly.js": "^1.45.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
